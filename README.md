@@ -2,6 +2,10 @@
 
 A Streamlit application that uses Google's Gemini AI to analyze civil engineering structures from images.
 
+## 🌐 Live Demo
+
+🔗 Demo Video: [https://drive.google.com/file/d/1yXiaPI3NcRrDJxg5Y-NFgKvLUIxFRx40/view?usp=sharing](https://drive.google.com/file/d/1CvoY4tUqxvjuFWgRchyF8DZicNLf71v8/view)
+
 ## Features
 
 - **Upload Image**: Upload an image of a civil engineering structure (bridge, building, dam, etc.).
@@ -66,3 +70,4 @@ streamlit run app.py
 ## License
 
 MIT
+
