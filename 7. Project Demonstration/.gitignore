@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+
+# Temporary Scripts
+tmpclaude*
+models_list*
+working_model.txt
+list_models*.py
+test_*.py
+test_*.ps1
+diagnose.py
+inspect_key.py
