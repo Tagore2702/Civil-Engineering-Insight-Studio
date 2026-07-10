@@ -26,7 +26,7 @@ def get_gemini_response(input_text, image, prompt):
     Returns:
         str: The text response from the model
     """
-    model = genai.GenerativeModel('gemini-2.5-flash')
+    model = genai.GenerativeModel('gemini-flash-latest')
     try:
         response = model.generate_content([input_text, image[0], prompt])
         return response.text
