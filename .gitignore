@@ -9,7 +9,7 @@ venv2/
 
 # Environment variables
 .env
-7. Project Demonstration/.env
+project_demonstration/.env
 
 # Streamlit
 .cache/
